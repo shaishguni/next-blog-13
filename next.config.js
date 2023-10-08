@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    images:['cdn.sanity.io']
+}
 
 module.exports = nextConfig
